@@ -2,7 +2,7 @@
 // Created by user on 7/8/24.
 //
 
-include <iostrem>;
+#include <iostream>
 
 using namespace std;
 
